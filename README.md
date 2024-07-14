@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=benjaspet&style=for-the-badge&label=Profile+Views&abbreviated=true)
+![](https://img.shields.io/badge/typescript-blue?logo=typescript&logoColor=f5f5f5&style=for-the-badge)
+
 ### Hello, and welcome to my GitHub profile!
 
 I'm Ben, a rising third-year at Northeastern University in Boston, Massachusetts. I'm pursuing a bachelor's degree in Computer Science
