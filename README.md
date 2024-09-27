@@ -12,24 +12,3 @@
 
 I'm Ben, a rising third-year at Northeastern University in Boston, Massachusetts. I'm pursuing a bachelor's degree in Computer Science
 with a concentration in Software. I have experience in full-stack development. I look forward to working with a team focused on innovation.
-
-### Work Experience
-
-**FirstGlance (a LHS company)** – Boston, MA <br>
-Full Stack Engineer Co-op (Sep 2024 – Present)
-- Built OpenAPI-compliant REST endpoints for interaction with Firebase, using ElysiaJS to enforce strict type validation.
-- Utilized Next.js and TailwindCSS to consolidate codebase and Redux for secure state and session management.
-- Aggregated unstructured data to build type definitions & engineered a suite of unit tests frontend and backend components.
-
-**Generate Product Development** – Boston, MA <br>
-Software Engineer (Aug 2024 – Present)
-- Engineered 12+ RESTful API endpoints for user authentication, profile management, and venue interactions with CRUD operations and filtering, implementing robust validation and type-safety to improve API response time by 70%.
-- Developed and integrated frontend authentication using JWTs in a React Native environment, supporting Google OAuth and platform-specific logins, and leveraging Supabase for real-time database management and authentication.
-- Maintained CI/CD pipelines for automated testing and deployment in a Dockerized environment, achieving a 40% reduction in deployment time, 90+% test coverage, and strong uptime for mobile application releases for the Nightlife app.
-
-**Khoury College of Computer Sciences** - Boston, MA <br>
-Lead Teaching Assistant, Object-Oriented Design (May – June 2024) <br>
-Teaching Assistant, Fundamentals of CS II (Jan – Apr 2024)
-- Led and facilitated 6+ weekly lab sections with 60+ students each, reinforcing course concepts on data structures, MVC, Decorator, Factory, and Observer design patterns in Java. Answered student questions on Piazza, prompting critical thinking.
-- Graded exams, lab activities, and 30+ assignments per week, collaborating with professors and staff on grading rubrics.
-- Held weekly office hours, mentoring students one-on-one for lecture comprehension, assignments, and exam preparation.
