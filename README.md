@@ -7,8 +7,3 @@
 ![](https://img.shields.io/badge/html-blue?logo=html5&logoColor=f5f5f5&style=for-the-badge)
 ![](https://img.shields.io/badge/css-blue?logo=css3&logoColor=f5f5f5&style=for-the-badge)
 ![](https://img.shields.io/badge/racket-blue?logo=racket&logoColor=f5f5f5&style=for-the-badge)
-
-### Welcome to my GitHub profile!
-
-I'm Ben, a rising third-year at Northeastern University in Boston, Massachusetts. I'm pursuing a bachelor's degree in Computer Science
-with a concentration in Software. I have experience in full-stack development. I look forward to working with a team focused on innovation.
